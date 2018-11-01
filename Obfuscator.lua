@@ -25,7 +25,11 @@ function li1lI1L11il11l1lILi1lI1Li1liLI1li1lI1LI1li1()
 	end
 end
 
--- Left off at : adding check against dumping
+--[[ 
+Todo:
+Add Check Against Dumping
+Line-ify the script
+]]--
 
 
 -- ByteCode = 
